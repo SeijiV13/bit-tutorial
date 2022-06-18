@@ -11,13 +11,13 @@
 {
     "ui/hack-button": {
         "scope": "bit-demo-seij.hack",
-        "version": "1.1.0",
+        "version": "1.0.3",
         "mainFile": "index.ts",
         "rootDir": "hack/ui/hack-button"
     },
     "ui/hack-search": {
         "scope": "bit-demo-seij.hack",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "mainFile": "index.ts",
         "rootDir": "hack/ui/hack-search"
     },
