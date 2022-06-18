@@ -11,7 +11,7 @@ export function HackButton({ children }: HackButtonProps) {
   return (
     <div>
       {children}
-      <button>Test</button>
+      <button>Test change</button>
       <MyWelcome>Hello world!</MyWelcome>
     </div>
   );
